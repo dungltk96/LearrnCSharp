@@ -1,0 +1,7 @@
+D:\IT-VNUA\LearrnCSharp\Dic\Dic\bin\Debug\Dic.exe.config
+D:\IT-VNUA\LearrnCSharp\Dic\Dic\bin\Debug\Dic.exe
+D:\IT-VNUA\LearrnCSharp\Dic\Dic\bin\Debug\Dic.pdb
+D:\IT-VNUA\LearrnCSharp\Dic\Dic\obj\Debug\Dic.csproj.AssemblyReference.cache
+D:\IT-VNUA\LearrnCSharp\Dic\Dic\obj\Debug\Dic.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\LearrnCSharp\Dic\Dic\obj\Debug\Dic.exe
+D:\IT-VNUA\LearrnCSharp\Dic\Dic\obj\Debug\Dic.pdb

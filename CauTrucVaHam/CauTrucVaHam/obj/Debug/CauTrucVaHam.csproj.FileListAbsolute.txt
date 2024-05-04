@@ -1,0 +1,7 @@
+D:\IT-VNUA\LearrnCSharp\CauTrucVaHam\CauTrucVaHam\bin\Debug\CauTrucVaHam.exe.config
+D:\IT-VNUA\LearrnCSharp\CauTrucVaHam\CauTrucVaHam\bin\Debug\CauTrucVaHam.exe
+D:\IT-VNUA\LearrnCSharp\CauTrucVaHam\CauTrucVaHam\bin\Debug\CauTrucVaHam.pdb
+D:\IT-VNUA\LearrnCSharp\CauTrucVaHam\CauTrucVaHam\obj\Debug\CauTrucVaHam.csproj.AssemblyReference.cache
+D:\IT-VNUA\LearrnCSharp\CauTrucVaHam\CauTrucVaHam\obj\Debug\CauTrucVaHam.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\LearrnCSharp\CauTrucVaHam\CauTrucVaHam\obj\Debug\CauTrucVaHam.exe
+D:\IT-VNUA\LearrnCSharp\CauTrucVaHam\CauTrucVaHam\obj\Debug\CauTrucVaHam.pdb

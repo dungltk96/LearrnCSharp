@@ -1,0 +1,7 @@
+D:\University\LearrnCSharp\TongHopBaiCu\bin\Debug\TongHopBaiCu.exe.config
+D:\University\LearrnCSharp\TongHopBaiCu\bin\Debug\TongHopBaiCu.exe
+D:\University\LearrnCSharp\TongHopBaiCu\bin\Debug\TongHopBaiCu.pdb
+D:\University\LearrnCSharp\TongHopBaiCu\obj\Debug\TongHopBaiCu.csproj.AssemblyReference.cache
+D:\University\LearrnCSharp\TongHopBaiCu\obj\Debug\TongHopBaiCu.csproj.CoreCompileInputs.cache
+D:\University\LearrnCSharp\TongHopBaiCu\obj\Debug\TongHopBaiCu.exe
+D:\University\LearrnCSharp\TongHopBaiCu\obj\Debug\TongHopBaiCu.pdb

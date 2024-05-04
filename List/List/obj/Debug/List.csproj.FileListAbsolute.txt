@@ -1,0 +1,7 @@
+D:\IT-VNUA\LearrnCSharp\List\List\bin\Debug\List.exe.config
+D:\IT-VNUA\LearrnCSharp\List\List\bin\Debug\List.exe
+D:\IT-VNUA\LearrnCSharp\List\List\bin\Debug\List.pdb
+D:\IT-VNUA\LearrnCSharp\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+D:\IT-VNUA\LearrnCSharp\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\LearrnCSharp\List\List\obj\Debug\List.exe
+D:\IT-VNUA\LearrnCSharp\List\List\obj\Debug\List.pdb

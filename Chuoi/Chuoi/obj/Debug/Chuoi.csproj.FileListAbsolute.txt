@@ -1,0 +1,7 @@
+D:\IT-VNUA\LearrnCSharp\Chuoi\Chuoi\bin\Debug\Chuoi.exe.config
+D:\IT-VNUA\LearrnCSharp\Chuoi\Chuoi\bin\Debug\Chuoi.exe
+D:\IT-VNUA\LearrnCSharp\Chuoi\Chuoi\bin\Debug\Chuoi.pdb
+D:\IT-VNUA\LearrnCSharp\Chuoi\Chuoi\obj\Debug\Chuoi.csproj.AssemblyReference.cache
+D:\IT-VNUA\LearrnCSharp\Chuoi\Chuoi\obj\Debug\Chuoi.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\LearrnCSharp\Chuoi\Chuoi\obj\Debug\Chuoi.exe
+D:\IT-VNUA\LearrnCSharp\Chuoi\Chuoi\obj\Debug\Chuoi.pdb

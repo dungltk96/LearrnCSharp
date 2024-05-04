@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT-VNUA\\LearrnCSharp\\Chuoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71686E27-DE56-4CAC-9191-3117C9107FA9}|Chuoi\\Chuoi.csproj|d:\\it-vnua\\learrncsharp\\chuoi\\chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71686E27-DE56-4CAC-9191-3117C9107FA9}|Chuoi\\Chuoi.csproj|solutionrelative:chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT-VNUA\\LearrnCSharp\\Chuoi\\Chuoi\\Program.cs",
+              "RelativeDocumentMoniker": "Chuoi\\Program.cs",
+              "ToolTip": "D:\\IT-VNUA\\LearrnCSharp\\Chuoi\\Chuoi\\Program.cs",
+              "RelativeToolTip": "Chuoi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:44:08.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

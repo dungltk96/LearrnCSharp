@@ -1,0 +1,7 @@
+D:\IT-VNUA\LearrnCSharp\Mang\Mang\bin\Debug\Mang.exe.config
+D:\IT-VNUA\LearrnCSharp\Mang\Mang\bin\Debug\Mang.exe
+D:\IT-VNUA\LearrnCSharp\Mang\Mang\bin\Debug\Mang.pdb
+D:\IT-VNUA\LearrnCSharp\Mang\Mang\obj\Debug\Mang.csproj.AssemblyReference.cache
+D:\IT-VNUA\LearrnCSharp\Mang\Mang\obj\Debug\Mang.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\LearrnCSharp\Mang\Mang\obj\Debug\Mang.exe
+D:\IT-VNUA\LearrnCSharp\Mang\Mang\obj\Debug\Mang.pdb

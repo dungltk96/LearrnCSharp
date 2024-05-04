@@ -1,0 +1,14 @@
+D:\IT-VNUA\LearrnCSharp\Bai13\Cau1\bin\Debug\Cau1.exe.config
+D:\IT-VNUA\LearrnCSharp\Bai13\Cau1\bin\Debug\Cau1.exe
+D:\IT-VNUA\LearrnCSharp\Bai13\Cau1\bin\Debug\Cau1.pdb
+D:\IT-VNUA\LearrnCSharp\Bai13\Cau1\obj\Debug\Cau1.csproj.AssemblyReference.cache
+D:\IT-VNUA\LearrnCSharp\Bai13\Cau1\obj\Debug\Cau1.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\LearrnCSharp\Bai13\Cau1\obj\Debug\Cau1.exe
+D:\IT-VNUA\LearrnCSharp\Bai13\Cau1\obj\Debug\Cau1.pdb
+D:\University\LearrnCSharp\Bai13\Cau1\bin\Debug\Cau1.exe.config
+D:\University\LearrnCSharp\Bai13\Cau1\bin\Debug\Cau1.exe
+D:\University\LearrnCSharp\Bai13\Cau1\bin\Debug\Cau1.pdb
+D:\University\LearrnCSharp\Bai13\Cau1\obj\Debug\Cau1.csproj.AssemblyReference.cache
+D:\University\LearrnCSharp\Bai13\Cau1\obj\Debug\Cau1.csproj.CoreCompileInputs.cache
+D:\University\LearrnCSharp\Bai13\Cau1\obj\Debug\Cau1.exe
+D:\University\LearrnCSharp\Bai13\Cau1\obj\Debug\Cau1.pdb
